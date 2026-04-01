@@ -24,7 +24,10 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            "test_node=controller.first_node:main"
+            "test_node=controller.first_node:main",
+            "circle=controller.draw:main",
+            "getdata=controller.getpos:main",
+            "controller=controller.controller:main"
         ],
     },
 )

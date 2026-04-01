@@ -1,0 +1,18 @@
+[1.122s] Invoking command in '/home/w1dow/inferno/software/task1/ros_ws2/build/controller': PYTHONPATH=/home/w1dow/inferno/software/task1/ros_ws2/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/w1dow/inferno/software/task1/ros_ws2/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/w1dow/inferno/software/task1/ros_ws2/build/controller/build --no-deps symlink_data
+[1.593s] running develop
+[1.881s] running egg_info
+[1.884s] writing controller.egg-info/PKG-INFO
+[1.884s] writing dependency_links to controller.egg-info/dependency_links.txt
+[1.884s] writing entry points to controller.egg-info/entry_points.txt
+[1.884s] writing requirements to controller.egg-info/requires.txt
+[1.885s] writing top-level names to controller.egg-info/top_level.txt
+[1.887s] reading manifest file 'controller.egg-info/SOURCES.txt'
+[1.887s] writing manifest file 'controller.egg-info/SOURCES.txt'
+[1.890s] running build_ext
+[1.890s] Creating /home/w1dow/inferno/software/task1/ros_ws2/install/controller/lib/python3.10/site-packages/controller.egg-link (link to .)
+[1.891s] Installing circle script to /home/w1dow/inferno/software/task1/ros_ws2/install/controller/lib/controller
+[1.891s] Installing test_node script to /home/w1dow/inferno/software/task1/ros_ws2/install/controller/lib/controller
+[1.891s] 
+[1.892s] Installed /home/w1dow/inferno/software/task1/ros_ws2/build/controller
+[1.892s] running symlink_data
+[1.948s] Invoked command in '/home/w1dow/inferno/software/task1/ros_ws2/build/controller' returned '0': PYTHONPATH=/home/w1dow/inferno/software/task1/ros_ws2/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/w1dow/inferno/software/task1/ros_ws2/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/w1dow/inferno/software/task1/ros_ws2/build/controller/build --no-deps symlink_data

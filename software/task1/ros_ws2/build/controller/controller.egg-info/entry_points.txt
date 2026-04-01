@@ -1,3 +1,6 @@
 [console_scripts]
+circle = controller.draw:main
+controller = controller.controller:main
+getdata = controller.getpos:main
 test_node = controller.first_node:main
 
