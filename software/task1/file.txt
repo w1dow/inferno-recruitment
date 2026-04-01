@@ -1,0 +1,6 @@
+Nodes with different ROS_DOMAIN_ID cannot communicate to each other
+\nvalid range 0-232
+my ROSID=1
+export ROS_LOCALHOST_ONLY=1
+ros2 turtlesim done
+[200~ros2 run <package_name> <executable_name>~
